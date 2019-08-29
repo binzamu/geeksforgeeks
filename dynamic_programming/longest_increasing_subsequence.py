@@ -1,3 +1,5 @@
+# length list store the number that has smaller values in smaller index.
+
 # https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0
 t = int(input())
 
